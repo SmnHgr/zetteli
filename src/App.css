@@ -11,7 +11,7 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
     position: relative;
-    z-index: 10;
+    z-index: 11;
   }
 }
 
