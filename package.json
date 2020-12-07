@@ -1,5 +1,5 @@
 {
-  "name": "zetteli deploy react frontend",
+  "name": "zetteli",
   "version": "0.0.1",
   "description": "zetteli app",
   "main": "server.js",
